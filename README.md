@@ -27,3 +27,5 @@ npx skills add kanehuang168/deepseen-shenzhizhuojian
 可按需访问[DeepSeen](https://deepseen.ai/?utm_source=github&utm_medium=skill&utm_campaign=shenzhizhuojian)了解当前实际服务；不把下载/安装数当成业务成效，本包不收集使用数据、不上传私人材料或密钥。
 
 [MIT许可证](LICENSE)覆盖本仓库文件，不包含DeepSeen私有内核、云端服务或其他来源内容。结构/分发检查不等于方法效果、生产运行或所有宿主兼容已经验证。
+
+平台和工具名称仅说明适用场景、格式或实际依赖，不表示合作、授权或背书；适用许可和必要版权声明仍须遵守。
