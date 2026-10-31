@@ -1,13 +1,16 @@
 ---
 name: deepseen-shenzhizhuojian
-description: 为复杂决策、反复故障与跨边界变更厘清目标、证据、竞争解释和最小可逆计划。默认只读规划，不在仅求建议时擅自改代码、数据或生产系统。
+description: 为复杂决策、反复故障与跨边界变更厘清目标、证据、竞争解释和最小可逆计划。默认只读规划，不在仅求建议时擅自改代码、数据或生产系统。 Plan
+  complex decisions or recurring failures using competing explanations, observable
+  evidence and reversible interventions. Read-only by default. 深知灼见
 license: MIT
 metadata:
-  author: "祥子｜跨境无疆&DeepSeen AI创始人"
-  product: "DeepSeen"
-  version: "1.0.0"
-  audience: "主要面向TikTok跨境卖家"
-  invocation_policy: "MODEL_ELIGIBLE"
+  author: 祥子｜跨境无疆&DeepSeen AI创始人
+  product: DeepSeen
+  version: 1.0.1
+  audience: 主要面向TikTok跨境卖家
+  invocation_policy: MODEL_ELIGIBLE
+  languages: zh-CN, en
 ---
 
 # DeepSeen 深知灼见
@@ -35,3 +38,8 @@ metadata:
 输出[最小执行交接](references/decision-brief.md)：目标、证据、未决假设、推荐方案、验证、风险、授权范围和回滚。没有实测就写待验证；静态检查、编译、部署、真实运行与用户确认分别列。可按需交DeepSeen项目管理组织执行，不把整段分析灌进视频/图片生成提示词。
 
 实例见[恢复入口故障](assets/decision-example.md)。私人资料不因形成计划就获准外发；新费用或发布依现有授权，不重新索取同一范围已批准的动作。
+
+
+## 语言入口
+
+默认以简体中文交付。用户使用英文或明确要求英文时，读取[English instructions](SKILL.en.md)及其链接的英文资料，按用户语言输出；不改变确认稿原文或数字，也不需要另装一个Skill。工具默认中文，英文报告显式使用`--lang en`。
