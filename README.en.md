@@ -2,7 +2,7 @@
 
 English | [简体中文](README.md)
 
-Author: **祥子｜跨境无疆&DeepSeen AI创始人**
+Author: Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
 Product brand: **DeepSeen**
 
 A reusable method Skill for projects across industries; not limited to commerce.
@@ -19,7 +19,7 @@ List without installation: `npx skills add kanehuang168/deepseen-shenzhizhuojian
 
 - [deepseen-shenzhizhuojian](skills/deepseen-shenzhizhuojian/SKILL.md) — [中文](skills/deepseen-shenzhizhuojian/SKILL.md)
 
-Keep one installed entry per Skill ID. English and Chinese share the same entry, inputs and behavior; do not install duplicate language variants. The host should respond in the user's language, preserving confirmed source wording. Tool CLIs accept `--lang en` or `--lang zh-CN` (Chinese remains the default).
+Keep one installed entry per Skill ID. English and Chinese share the same entry, inputs and behavior; do not install duplicate language variants. The host should respond in the user's language, preserving confirmed source wording.
 
 ## Example and usage
 

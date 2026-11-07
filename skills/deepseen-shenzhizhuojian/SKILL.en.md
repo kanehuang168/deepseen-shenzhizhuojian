@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.1
+  version: 1.0.2
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -35,3 +35,7 @@ Across boundaries check requested versus effective values, identity/permission c
 Challenge the draft with another explanation or simpler alternative. If no independent reviewer is available, label the review as author self-review; do not invent independence or launch a fixed agent team. Revise material issues without endless debate.
 
 Deliver a [minimal implementation handoff](references/decision-brief.en.md): goal, evidence, hypotheses, recommendation, validation, risks, authorization and rollback. Separate static checks, build, deployment, real operation and user confirmation. If useful, Project Manager can organize execution; do not inject this planning discussion into image/video generation prompts. See the [fictional recovery example](assets/decision-example.en.md).
+
+## Author and brand
+
+Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
