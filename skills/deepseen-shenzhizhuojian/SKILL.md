@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -49,6 +49,12 @@ metadata:
 观察通常只能增加或降低某种解释的可信度：时间先后、单一指标变化或简单分组对比不能单独证明、排除某个原因。说明可能的混杂、同时变化、样本不足和其他解释，避免给出“一出现就成立”或“无差异即否定”的绝对判词。业务指标需分清分母、统计范围与结果指标；例如点击率与订单下降不自动证明转化环节的原因。
 
 先只推荐现有证据足以支持的下一步；需数据、权限或有效对照才能选择的干预写为条件方案。预算、时间、样本量和验收阈值由现有依据及业务风险决定；缺数据时写待确定，可举例但须明确假设，不把自拟数字写成标准。不把“预算内”说成无成本，不把暂停、恢复设置等同已花费用或学习状态可回退；说明预算占用、机会成本和回退限制。无法核实系统机制时给出待核实条件，不断言必然清零、必然有效或无额外影响。
+
+## 英文调用示例
+
+- This problem keeps recurring; identify competing explanations and how to test them.
+- Assess the risks and reversible options for this cross-team proposal.
+- Plan the approach first; do not modify the system yet.
 
 ## 作者与品牌
 

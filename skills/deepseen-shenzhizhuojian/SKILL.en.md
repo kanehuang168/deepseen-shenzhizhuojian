@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -41,6 +41,12 @@ Deliver a [minimal implementation handoff](references/decision-brief.en.md): goa
 Timing, a single metric or a simple group comparison usually changes confidence rather than proving or ruling out a cause. Identify confounders, simultaneous changes, sample limits and alternative explanations; avoid treating one observed signal as conclusive. Distinguish metric denominators, reporting scope and downstream outcomes.
 
 Recommend only the next action supported by current evidence; make interventions conditional on needed data, permissions and a credible comparison. Treat budgets, duration, sample sizes and success thresholds as undetermined without evidence, or clearly label illustrative assumptions. Spending within an existing budget still has a cost and opportunity cost; stopping or restoring settings does not undo spending or necessarily restore learning state. Verify platform behavior before asserting that it must reset or work.
+
+## Example requests
+
+- This problem keeps recurring; identify competing explanations and how to test them.
+- Assess the risks and reversible options for this cross-team proposal.
+- Plan the approach first; do not modify the system yet.
 
 ## Author and brand
 
