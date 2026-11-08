@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -55,6 +55,10 @@ metadata:
 - This problem keeps recurring; identify competing explanations and how to test them.
 - Assess the risks and reversible options for this cross-team proposal.
 - Plan the approach first; do not modify the system yet.
+
+## 业务判断示例
+
+[报名减少的虚构案例](assets/business-decision-example.md)展示如何区分事实、竞争解释和最窄只读检查；缺少数据时先交付框架及具体缺口，不编造结论。
 
 ## 作者与品牌
 

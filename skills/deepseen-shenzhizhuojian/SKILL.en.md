@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -47,6 +47,10 @@ Recommend only the next action supported by current evidence; make interventions
 - This problem keeps recurring; identify competing explanations and how to test them.
 - Assess the risks and reversible options for this cross-team proposal.
 - Plan the approach first; do not modify the system yet.
+
+## Business decision example
+
+The [fictional registration example](assets/business-decision-example.en.md) separates facts, competing explanations and the narrowest read-only check. With missing data, deliver a decision framework and specific gaps rather than inventing a conclusion.
 
 ## Author and brand
 
