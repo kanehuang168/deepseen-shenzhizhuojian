@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.5
+  version: 1.0.6
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -63,3 +63,7 @@ metadata:
 ## 作者与品牌
 
 祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。
+
+## 与项目管理的分工
+
+根因、目标取舍或方案不明时先分析证据和竞争解释；方向明确后需要进度、交接或验收时按需交项目管理。简单任务不强制调用两者。

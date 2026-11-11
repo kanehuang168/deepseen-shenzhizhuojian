@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.5
+  version: 1.0.6
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -55,3 +55,7 @@ The [fictional registration example](assets/business-decision-example.en.md) sep
 ## Author and brand
 
 Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
+
+## Handoff to project management
+
+Analyze unresolved causes and alternatives first; when direction is clear, use project management as appropriate for progress and acceptance. Do not force both skills for simple work.
